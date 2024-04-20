@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Henrique Junqueira 👋
 
-- 💻 Hoje trabalho com desenvolvimento full stack
-- 📚 Estudando a trilha de Desenvolvimento Full Stack da +praTI em parceria com a Codifica Edu
+- 💻 Trabalho com desenvolvimento web full stack
+- 📚 No momento estou na trilha de Desenvolvimento Full Stack da +praTI em parceria com a Codifica Edu
 - 👨🏻‍🎓 Técnico em Informática
-- 👨🏻‍🎓 Analista de Sistema
+- 👨🏻‍🎓 Analista de Sistema 
 
 ##
 
