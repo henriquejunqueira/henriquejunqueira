@@ -2,8 +2,6 @@
 
 - 💻 Trabalho com desenvolvimento web full stack
 - 📚 No momento estou na trilha de Desenvolvimento Full Stack da +praTI em parceria com a Codifica Edu
-- 👨🏻‍🎓 Técnico em Informática
-- 👨🏻‍🎓 Analista de Sistema 
 
 ##
 
