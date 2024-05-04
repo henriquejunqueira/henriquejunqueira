@@ -27,7 +27,7 @@
   <img align="center" alt="Henrique-Java" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
   <img align="center" alt="Henrique-PHP" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" />
   <img align="Center" alt="Henrique-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" />
-  <img align="Center" alt="Henrique-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" />
+  <img align="Center" alt="Henrique-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" />
   <img align="center" alt="Henrique-Figma" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
   <img align="center" alt="Henrique-MySQL" height="30" widht="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
   <img align="center" alt="Henrique-Linux" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
