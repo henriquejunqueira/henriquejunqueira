@@ -33,7 +33,6 @@
   <img align="center" alt="Henrique-Figma" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
   <img align="center" alt="Henrique-MySQL" height="30" widht="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
   <img align="center" alt="Henrique-Linux" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
-  <img align="center" alt="Henrique-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" />
   <img align="center" alt="Henrique-Docker" height="30" widht="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
 </div>
 
