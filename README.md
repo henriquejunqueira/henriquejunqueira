@@ -23,6 +23,7 @@
   <img align="center" alt="Henrique-Node" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
   <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
   <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+  <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" />
   <img align="Center" alt="Henrique-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" />
   <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
   <img align="center" alt="Henrique-Java" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
