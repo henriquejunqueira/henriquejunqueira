@@ -21,6 +21,7 @@
   <img align="center" alt="Henrique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
   <img align="center" alt="Henrique-React" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
   <img align="center" alt="Henrique-Node" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
+  <img align="center" alt="Henrique-Express" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" />
   <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
   <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
   <img align="center" alt="Henrique-Sass" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" />
@@ -28,12 +29,15 @@
   <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
   <img align="center" alt="Henrique-Java" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
   <img align="center" alt="Henrique-Springboot" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" />
+  <img align="center" alt="Henrique-Maven" height="30" widht="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Maven-Dark.svg" />
+  <img align="center" alt="Henrique-Hibernate" height="30" widht="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Hibernate-Dark.svg" />
   <img align="center" alt="Henrique-PHP" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" />
   <img align="center" alt="Henrique-WP" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" />
   <img align="Center" alt="Henrique-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" />
   <img align="center" alt="Henrique-Figma" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
   <img align="center" alt="Henrique-MySQL" height="30" widht="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
   <img align="center" alt="Henrique-Firebase" height="30" widht="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" />
+  <img align="center" alt="Henrique-MongoDB" height="30" widht="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" />
   <img align="center" alt="Henrique-Linux" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
   <img align="center" alt="Henrique-Docker" height="30" widht="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
   <img align="center" alt="Henrique-Jest" height="30" widht="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" />
