@@ -43,6 +43,7 @@
   <img align="center" alt="Henrique-Linux" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
   <img align="center" alt="Henrique-Docker" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
   <img align="center" alt="Henrique-Jest" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" />
+  <img align="center" alt="Henrique-Godot" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Godot-Dark.svg" />
 </div>
 
 <picture>
