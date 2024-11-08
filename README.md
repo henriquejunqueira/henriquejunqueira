@@ -9,8 +9,7 @@
   <a href="https://github.com/henriquejunqueira">
   <img height="180em" src="https://streak-stats.demolab.com/?user=henriquejunqueira&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquejunqueira&show_icons=true&hide_rank=true&theme=dark&include_all_commits=true&count_private=true" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquejunqueira&layout=compact&langs_count=16&theme=dark" /> -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquejunqueira&hide_progress=false&langs_count=16&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquejunqueira&layout=compact&langs_count=16&theme=dark" />
 </div>
 
 <hr/>
