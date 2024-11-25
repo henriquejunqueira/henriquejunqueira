@@ -1,7 +1,8 @@
 ### Hello! My name is Henrique Junqueira 👋
 
-- 💻 Work with full stack web development
-- 📚 I'm currently on the +praTI Full Stack Development track in partnership with Codifica Edu
+- 👨🏻‍💻 Full Stack Developer
+- ❤️ I love the Java programming language
+- 🖥️ I have a bigger crush on backend than frontend
 
 ##
 
