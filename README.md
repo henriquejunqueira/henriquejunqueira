@@ -21,6 +21,7 @@
   <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
   <img align="center" alt="Henrique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
   <img align="center" alt="Henrique-React" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
+  <img align="center" alt="Henrique-Angular" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Angular-Dark.svg" />
   <img align="center" alt="Henrique-Node" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
   <img align="center" alt="Henrique-Express" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" />
   <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
