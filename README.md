@@ -48,6 +48,9 @@
   <img align="center" alt="Henrique-Godot" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Godot-Dark.svg" />
   <img align="center" alt="Henrique-Git" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" />
   <img align="center" alt="Henrique-Swagger" height="30" width="40" src="https://camo.githubusercontent.com/5e28dcd43bef66cb320f2952c7512858b9dbc3fcf1ca7350c5375107118e3066/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" />
+  <img align="center" alt="Henrique-Rust" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Rust.svg" />
+  <img align="center" alt="Henrique-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NestJS-Dark.svg" />
+  <img align="center" alt="Henrique-Xylon" height="30" width="30" src="https://raw.githubusercontent.com/henriquejunqueira/Xylon/refs/heads/henrique/assets/Xylon.png" />
 </div>
 
 <picture>
