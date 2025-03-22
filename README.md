@@ -4,6 +4,7 @@
 - ❤️ I love the Java programming language
 - 🖥️ I have a bigger crush on backend than frontend
 - ⚙️ Creator and developer of the Xylon programming language
+- 📕 Ebook author [Hacking Ético - Dominando o Bug Bounty](https://www.amazon.com.br/dp/B0F25SF26Z/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2QTLS4PRBZYJR&dib=eyJ2IjoiMSJ9.qVho4AWod7wm75uemDVhT8MrmGRPftNtBB9YvpszsLg1qacRbKP-z2aZJVHVJDns7iup40XDDShGukzUt43XAW8ZIvWZAZsrPyLHl8AbJsk.aljQvA0IELaPPO1mCMFT79Ty5ZopqXGbWKyFIAljHlw&dib_tag=se&keywords=Hacking+%C3%89tico+-+Dominando+o+Bug+Bounty&qid=1742618815&sprefix=hacking+%C3%A9tico+-+dominando+o+bug+bounty%2Caps%2C243&sr=8-1) available on Amazon
 
 ##
 
